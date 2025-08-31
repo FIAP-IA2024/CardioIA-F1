@@ -1,0 +1,47 @@
+Título do Artigo: Experiência dos sintomas em pessoas com insuficiência cardíaca no contexto da Teoria de Manejo dos Sintomas
+
+Objetivo: identificar a experiência dos sintomas vivenciados pela pessoa com insuficiência cardíaca nas classes funcional III e IV, pela Teoria de Manejo dos Sintomas. Método: estudo descritivo, qualitativo, realizado no ambulatório de Cardiologia e unidades de internação de um Hospital de Ensino, entre janeiro a junho de 2023, totalizando 26 participantes com diagnóstico de insuficiência cardíaca em classe funcional III e IV. Os dados foram obtidos por meio de entrevistas semiestruturadas utilizando-se da análise de conteúdo. Resultados: a idade média foi de 65 anos, predominando pessoas em classe funcional III. Obtiveram-se duas categorias temáticas: "Percepção dos sintomas de insuficiência cardíaca" e "Avaliação dos sintomas de insuficiência cardíaca". Conclusão e implicações para a prática: as principais experiências identificadas foram: percepção dos sintomas, como dispneia em repouso ou aos esforços, fadiga, fraqueza, tontura, dor torácica e edema em membros inferiores; avaliação dos sintomas, por meio do julgamento da sua origem, atribuindo-os a outras doenças, comorbidades, ou a própria insuficiência cardíaca, e pelos impactos nas atividades de vida diária, evidenciados pelas limitações na realização de atividades pessoais, de higiene, domésticas ou laborais. O estudo poderá contribuir para o desenvolvimento desta teoria de enfermagem no país e alicerçar o planejamento para um cuidado individualizado.
+
+Introdução
+A insuficiência cardíaca (IC) é uma síndrome que acompanha o envelhecimento e é considerada o desfecho de inúmeras patologias cardíacas, causando considerável impacto na qualidade de vida, com alto índice de morbimortalidade e hospitalizações. A IC é um desafio clínico global e causa impactos na saúde, em decorrência da sobrecarga dos sintomas. Devido ao seu caráter crônico e progressivo, tende a aumentar em incidência e prevalência, considerando o envelhecimento populacional gradativo, além de gerar ônus econômico tanto para o paciente quanto para o sistema de saúde.
+
+Em decorrência da incapacidade de o coração bombear sangue para atender às demandas do organismo, sinais e sintomas típicos marcam a redução do débito cardíaco no repouso ou no esforço. Sintomas como dispneia, edema nos membros inferiores, tontura, tosse, palpitações, fadiga, insônia, dificuldade para respirar ao deitar-se, boca seca, inapetência, dispneia paroxística noturna, ganho de peso, dor abdominal e ortopneia são característicos da doença e marcam sua progressão, além de causarem limitações nas atividades de vida diária e no desempenho funcional, econômico e social.
+
+Método
+O estudo é do tipo descritivo, de natureza qualitativa, desenvolvido em um hospital universitário do estado do Paraná. Participaram 26 pessoas com idade média de 65 anos, com distribuição igual entre homens e mulheres. Os critérios de inclusão dos participantes foram: idade igual ou superior a 18 anos; comunicação oral e acuidade auditiva preservada; ter conhecimento do diagnóstico de IC; e estar em Classe Funcional III ou IV. Foram excluídas pessoas que apresentassem alguma alteração cognitiva.
+
+Os dados foram obtidos por meio de entrevistas semiestruturadas. Para investigar a experiência dos sintomas, utilizou-se a seguinte questão disparadora: "Conte sua experiência sobre os sintomas relacionados ao seu problema no coração que lhe incomodam".
+
+Resultados
+A partir dos dados obtidos na entrevista, resultaram duas categorias temáticas: "Percepção dos sintomas de insuficiência cardíaca" e "Avaliação dos sintomas de insuficiência cardíaca".
+
+1. Percepção dos sintomas de insuficiência cardíaca
+Esta categoria envolve os sintomas percebidos pelo participante que afetam seu cotidiano, principalmente relacionados à intensidade e/ou angústia. Os sintomas percebidos foram físicos, como: dispneia (falta de ar), fadiga (cansaço), fraqueza, dor (no peito), tontura, edema de membros inferiores, coração acelerado e distensão abdominal.
+
+A dispneia e a fadiga foram os sintomas mais relatados pelos participantes, tanto em frequência quanto em intensidade. Eram percebidos em quaisquer situações do dia a dia, seja em repouso ou em mínimos esforços.
+
+Relato de Paciente (Paciente Femenino 13): "Quando abaixo para tomar banho e lavar os pés ou para pegar alguma coisa do chão, sinto cansaço e tontura, escurecem as vistas e sufoca, dá aquela sensação de sufocamento no peito e no pescoço. Falta de ar eu sempre tenho, quase diariamente. Me dá falta de ar quando caminho, falta o fôlego, parece que fico fadigada."
+
+Relato de Paciente (Paciente Masculino 11): "A tontura quando fico muito tempo sentado e levanto, é como um choque, se eu não segurar eu caio. Isso acontece todos os dias. Sinto as pernas inchadas, não sei se é por causa do remédio. O estufamento abdominal me incomoda."
+
+Relato de Paciente (Paciente Masculino 2): "Mas isso é ansiedade, acho que medo pelo que eu passei, porque eu infartei perto do Natal. Vim para o hospital no dia seguinte de helicóptero. Acho que isso deu esse medo de ter falta de ar e eu morrer. Isso está no meu psicológico."
+
+Relato de Paciente (Paciente Masculino 5): "Os sintomas do coração que me incomodam são a dor no peito. Também sinto dor na coluna, dor nas juntas. Se a diabetes aumentar um pouquinho a dor também aumenta."
+
+Relato de Paciente (Paciente Masculino 7): "Eu não consigo, é a insuficiência do coração e está me judiando muito, porque me tirou a liberdade, não posso sair com o meu filho."
+
+2. Avaliação dos sintomas de insuficiência cardíaca
+Esta categoria envolve a avaliação do sintoma, realizada pelo participante, por meio do julgamento da sua origem (atribuindo-o a outras doenças como diabetes, hipertensão e COVID-19) e dos impactos na vida diária.
+
+Relato de Paciente (Paciente Masculino 6): "A falta de ar piorava quando ia tomar banho e quando ia dormir. [...] Eu não fui consultar porque foi bem naquela época que isolava a pessoa com COVID. [...] Então, disse que não ia falar nada sobre isso, mas eu acho que tinha COVID."
+
+Relato de Paciente (Paciente Femenino 3): "Eu não sei, os médicos falam que é do coração, mas ele [o coração] não incomoda."
+
+Relato de Paciente (Paciente Masculino 13): "Sinto as pernas inchadas, eles falam que é do coração, a gente achava que era da circulação do sangue, mas é do coração."
+
+Relato de Paciente (Paciente Femenino 6): "Não podia sair, não podia caminhar para o terreiro ou fazer alguma coisa, porque já cansava, não conseguia estender a cama porque cansava."
+
+Discussão
+A experiência dos sintomas nos participantes de IC foi retratada por meio dos conceitos que englobam a percepção e a avaliação dos sintomas. Na percepção, identificaram-se os principais sintomas relacionados à IC, como dispneia, fadiga, dor torácica, tontura, edema de membros inferiores, taquicardia e distensão abdominal, além de sintomas relacionados a outras condições de saúde e comorbidades, como problemas osteomusculares.
+
+A avaliação dos sintomas foi explorada pelo seu impacto nas atividades de vida diária, pela dificuldade na realização de atividades laborais, tarefas domésticas e de higiene pessoal e pelo impacto na participação em relações sociais/familiares. A incapacidade para realizar atividades básicas e essenciais reflete a ideia de gravidade do sintoma, e isso também potencializa sentimentos de ansiedade, medo de morrer, tristeza, entre outros.

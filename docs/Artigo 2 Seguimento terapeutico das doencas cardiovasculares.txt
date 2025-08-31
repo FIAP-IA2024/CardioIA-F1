@@ -1,0 +1,47 @@
+Título do Artigo: Motivação ao seguimento terapêutico das doenças cardiovasculares: revisão integrativa
+
+Objetivo: Compreender a motivação de pacientes para o seguimento terapêutico das doenças cardiovasculares, por meio de uma revisão integrativa da literatura. Método: Trata-se de uma revisão integrativa da literatura, que seguiu as etapas de: (1) identificação do tema e questão de pesquisa; (2) estabelecimento de critérios de inclusão e exclusão; (3) definição das informações a serem extraídas; (4) avaliação dos estudos; (5) interpretação dos resultados; e (6) apresentação da revisão. A busca foi realizada nas bases de dados LILACS, SciELO, BDENF, MEDLINE e SCOPUS, utilizando os descritores "Doenças Cardiovasculares", "Adesão ao Tratamento" e "Motivação". A amostra final incluiu 13 artigos completos. Resultados: Os estudos selecionados abordaram diversos fatores que influenciam a motivação dos pacientes, como o conhecimento sobre a doença, o suporte social, a relação com os profissionais de saúde e as crenças pessoais. As principais dificuldades para a adesão ao tratamento incluem a complexidade do regime terapêutico, os efeitos adversos da medicação e o custo financeiro. Conclusão: A motivação do paciente para o tratamento de doenças cardiovasculares é um processo complexo e multifatorial, influenciado por aspectos clínicos, sociais e psicológicos. O papel da equipe de saúde é crucial para promover a adesão, por meio de uma abordagem educativa e humanizada.
+
+Introdução
+As doenças cardiovasculares (DCV) representam a principal causa de morte e incapacidade no mundo, sendo responsáveis por um grande impacto socioeconômico. A adesão ao tratamento é fundamental para o controle das DCV, na medida em que a não adesão aumenta o risco de complicações, hospitalizações e mortalidade. No entanto, a adesão ao tratamento contínuo é um desafio, principalmente para pacientes com condições crônicas. A motivação do paciente, por sua vez, é um fator determinante para o sucesso do seguimento terapêutico.
+
+A motivação pode ser influenciada por uma variedade de fatores, incluindo o conhecimento do paciente sobre a doença, suas crenças e valores, o suporte familiar e social, e a relação com a equipe de saúde. Compreender esses fatores é crucial para que os profissionais de saúde possam desenvolver estratégias eficazes para incentivar a adesão.
+
+Método
+Este é um estudo de revisão integrativa da literatura, que teve como objetivo compreender a motivação de pacientes para o seguimento terapêutico das doenças cardiovasculares. O método adotado permitiu sintetizar os resultados de pesquisas anteriores sobre o tema.
+
+A busca foi realizada entre 2018 e 2023, nas seguintes bases de dados: LILACS (Literatura Latino-Americana e do Caribe em Ciências da Saúde), SciELO (Scientific Electronic Library Online), BDENF (Base de Dados em Enfermagem), MEDLINE (Medical Literature Analysis and Retrieval System Online) e SCOPUS. Os descritores utilizados, em português e inglês, foram: "Doenças Cardiovasculares", "Adesão ao Tratamento" e "Motivação".
+
+Após a aplicação dos critérios de inclusão (artigos completos disponíveis online, publicados nos idiomas português, inglês ou espanhol) e exclusão (artigos de revisão, teses, dissertações e outros documentos não científicos), a amostra final foi composta por 13 artigos.
+
+Resultados
+A análise dos artigos revelou que a motivação para o seguimento terapêutico é influenciada por diversos fatores, classificados em três grandes temas: fatores do paciente, fatores sociais e ambientais, e fatores do sistema de saúde.
+
+1. Fatores do paciente:
+
+Conhecimento sobre a doença: Os pacientes que compreendem a sua condição de saúde e a importância do tratamento tendem a ser mais motivados a segui-lo.
+
+Crenças e atitudes: As crenças pessoais sobre a doença, o medo de complicações e a autoconfiança (autoeficácia) têm um grande impacto na adesão.
+
+Aspectos psicológicos: A presença de depressão, ansiedade ou outras condições psicológicas pode reduzir a motivação e levar à não adesão.
+
+2. Fatores sociais e ambientais:
+
+Suporte social e familiar: O apoio de familiares, amigos e grupos de suporte aumenta significativamente a motivação. A falta de apoio, por outro lado, é um grande obstáculo.
+
+Condições socioeconômicas: O custo dos medicamentos, a falta de acesso a serviços de saúde e as dificuldades de transporte são barreiras financeiras que afetam a adesão.
+
+Cultura e valores: As crenças culturais sobre saúde e doença podem influenciar as decisões do paciente e sua motivação.
+
+3. Fatores do sistema de saúde:
+
+Relação com os profissionais: Uma boa comunicação e uma relação de confiança com a equipe de saúde são cruciais para a motivação do paciente.
+
+Educação em saúde: As orientações sobre como tomar os medicamentos, a dieta e a prática de exercícios, quando claras e personalizadas, melhoram a adesão.
+
+Complexidade do tratamento: Regimes terapêuticos com muitos medicamentos, horários difíceis ou efeitos colaterais são os principais fatores que levam à desmotivação.
+
+Discussão
+O estudo demonstrou que a motivação para a adesão terapêutica é um fenômeno complexo e que a não adesão está associada à perda de qualidade de vida e ao aumento da morbimortalidade. Diferentemente de um estudo qualitativo que capta a experiência individual, esta revisão oferece uma visão abrangente dos fatores que afetam a motivação em diversos contextos.
+
+A revisão aponta que a falta de adesão não é uma falha do paciente, mas sim o resultado de uma interação complexa entre múltiplos fatores. O papel da enfermagem e de outros profissionais de saúde é fundamental para atuar como mediadores e educadores, ajudando os pacientes a superar as barreiras e a manter a motivação para o tratamento a longo prazo.
